@@ -92,7 +92,7 @@ any issues than please use the "Old Methods" detailed later in the document.
 First you must install Jupyter, then you can install Maxima-Jupyter. If you
 plan on using JupyterLab then you must install with the `--user` option.
 
-     python3 -m pip --user install jupyter jupyterlab
+     python3 -m pip install --user jupyter jupyterlab
 
 Once Jupyter is installed you can either install from the source files of this
 repository, or you can install via the AUR if you are using Arch Linux.
